@@ -1,6 +1,8 @@
 create server side rendering: ng add @nguniversal/express-engine
 
-create component: ng g c components/componentName
+create component: ng g c componentPath
+
+create component with multiple modules: ng g c componentPath --module app
 
 start server dev: ng serve
 
