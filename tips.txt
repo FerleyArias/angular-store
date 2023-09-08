@@ -1,0 +1,9 @@
+create server side rendering: ng add @nguniversal/express-engine
+
+create component: ng g c components/componentName
+
+start server dev: ng serve
+
+create new project: ng new angular-store
+
+install angular cli: npm i -g @angular/cli
